@@ -12,3 +12,5 @@
 -Spring AOP(Aspects,cross cutting concerns ...e.g logger and validation logic would be sepetate from business logic)
 -apache libraries as third part for doing utility tasks
 ```
+
+Atlassian bitbuket  clone : git clone https://nomanarshad@bitbucket.org/nomanarshad/cms.git
